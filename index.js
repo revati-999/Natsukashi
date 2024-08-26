@@ -8,7 +8,7 @@ arrows.forEach( btn=> {
     }) 
 });
 
-let isDragging=false;
+// let isDragging=false;
 
 // const dragging = (e) =>{
 //     if(isDragging) return;
